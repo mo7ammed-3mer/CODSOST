@@ -28,6 +28,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
+
+
+### Socials
+
+ <a href="linkedin.com/in/mohammed-omer-10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ 
+ <a href="linkedin.com/in/mohammed-omer-10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ 
+ <a href="linkedin.com/in/mohammed-omer-10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ 
+ 
 <!--
 **mo7ammed-3mer/mo7ammed-3mer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
