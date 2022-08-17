@@ -7,10 +7,18 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
-  <a href="[your-twitter-URL](https://twitter.com/mo7ammd3mer/)">
+  <a href="https://twitter.com/mo7ammd3mer/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name Mohammed Omer
+=========================================================================================================================================
+
+FrontEnd Developer | Web Developer
+-----------------------------------
+
+A competent fresh graduate who is committed to web design and development looking for a rewarding job in the web development sector.
 
 
 ---
@@ -30,14 +38,14 @@
 </div>
 
 
-### Socials
 
- <a href="linkedin.com/in/mohammed-omer-10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
- 
- <a href="linkedin.com/in/mohammed-omer-10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
- 
- <a href="linkedin.com/in/mohammed-omer-10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
- 
+---
+### Socials Network
+
+<p align="left"><a href="https://web.facebook.com/mo7ammed3mer?_rdc=1&_rdr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+  <a href="https://www.instagram.com/mo7ammed_3mer_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="linkedin.com/in/mohammed-omer-10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://twitter.com/mo7ammd3mer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
  
 <!--
 **mo7ammed-3mer/mo7ammed-3mer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
